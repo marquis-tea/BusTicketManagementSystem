@@ -1,14 +1,14 @@
 #include <iostream>
 #include <fstream>
 #include <filesystem>
-#include "header\Bus.hpp"
-#include "header\Passenger.hpp"
-#include "header\Ticket.hpp"
-#include "header\TicketList.hpp"
-#include "header\BookingManager.hpp"
-#include "header\RefundManager.hpp"
-#include "header\PointsManager.hpp"
-#include "header\QueueManager.hpp"
+#include "header/Bus.hpp"
+#include "header/Passenger.hpp"
+#include "header/Ticket.hpp"
+#include "header/TicketList.hpp"
+#include "header/BookingManager.hpp"
+#include "header/RefundManager.hpp"
+#include "header/PointsManager.hpp"
+#include "header/QueueManager.hpp"
 using namespace std;
 
 const int NUMBER_OF_BUSES = 5;
